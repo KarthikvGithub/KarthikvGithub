@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarthikvGithub
 - 👀 I’m interested in Data Science and Communications
-- 🌱 I’m currently learning Data Analysis and Visualisation, Wireless Security, Federated Learning
+- 🌱 I’m currently learning Data Analysis Visualisation, Wireless Security, Federated Learning
 - 📫 How to reach me valdaskarthikgoud@gmail.com
 
 <!---
