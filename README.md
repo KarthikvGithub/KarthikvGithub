@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarthikvGithub
-- 👀 I’m interested in Data Science, Web Development and Communications
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Web Development and DevOps
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me valdaskarthikgoud@gmail.com
 
 <!---
